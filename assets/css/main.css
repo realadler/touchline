@@ -1,0 +1,12 @@
+@import "tailwindcss";
+.main-row{
+    @apply w-[100%] max-w-[1440px] mx-auto;
+}
+.row{
+    @apply w-[100%] max-w-[1080px] mx-auto;
+}
+
+@theme {
+    --color-primary: #1D71C9;
+    --color-white: #fff;
+}

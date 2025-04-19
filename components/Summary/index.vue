@@ -1,5 +1,5 @@
 <template>
-    <div class="custom-shadow w-full max-w-[850px] mx-auto relative z-10 -mt-20 rounded-2xl p-10 grid grid-cols-2 gap-20 mb-5 bg-white">
+    <div class="custom-shadow w-full max-w-[850px] mx-auto relative z-10 -mt-20 rounded-2xl p-10 grid grid-cols-2 gap-16 mb-5 bg-white">
         <div class="w-full">
             <SummaryNextUp/>
         </div>

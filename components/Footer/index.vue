@@ -75,3 +75,8 @@ const socialLinks = ref([
 ])
 
 </script>
+<style scoped>
+ul li{
+    @apply hover:scale-105 transition-all duration-150 cursor-pointer;
+}
+</style>

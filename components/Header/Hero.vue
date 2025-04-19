@@ -8,7 +8,7 @@
                 <h1 class="text-white font-bold text-[48px] leading-normal w-[680px]">
                     News Title: <span class="font-normal"> Example of the text that will go here! </span>
                 </h1>
-                <button class="w-[200px] h-[50px] bg-[#1D71C9] flex items-center justify-center font-bold text-white mb-5">
+                <button class="w-[200px] h-[50px] bg-[#1D71C9] border border-primary flex items-center justify-center font-bold text-white mb-5 hover:bg-white hover:text-primary transition-all duration-150 cursor-pointer">
                     Read More
                 </button>
                 <div class="flex items-center gap-5">

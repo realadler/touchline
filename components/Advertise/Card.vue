@@ -8,9 +8,10 @@
             <p class="text-[13px] mb-5">
                 Subtext example goes here!
             </p>
-            <button class="text-[13px] text-black  border  border-black px-6 py-2">
-                BUY ONLINE
-            </button>
+            <ButtonOutline
+                :dark="true"
+                :label="'BUY ONLINE'"
+            />
         </div>
     </div>
 </template>

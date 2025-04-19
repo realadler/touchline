@@ -11,7 +11,5 @@ export default defineNuxtConfig({
     ],
   },
 
-  modules: [
-    '@nuxt/image'
-  ],
+  modules: ['@nuxt/image', '@pinia/nuxt'],
 })

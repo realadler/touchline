@@ -1,6 +1,6 @@
 <template>
     <div class="w-full h-[760px] bgImage">
-        <div class="row h-full flex flex-col justify-end  pb-60">
+        <div class="row h-full flex flex-col justify-end  pb-40">
             <div class="w-full">
                 <p class="text-white">
                     13 HOURS AGO

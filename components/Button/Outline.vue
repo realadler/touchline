@@ -1,5 +1,5 @@
 <template>
-    <button class="px-[35px] py-[14px] bg-white border border-[#1D71C9] flex items-center justify-center gap-1" @click="emits('click')">
+    <button class="px-[35px] py-[14px] bg-white border border-[#1D71C9] flex items-center justify-center gap-1  cursor-pointer hover:scale-95 transition-all duration-150" @click="emits('click')">
         <NuxtImg :src="imageURL" alt="" class="w-[18px]" v-if="imageURL"/>
         <p class="text-[13px]  font-bold text-[#1D71C9] leading-none">
             {{ label }}

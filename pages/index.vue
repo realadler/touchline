@@ -1,9 +1,9 @@
 <template>
+    <HeaderHero/>
     <Summary/>
     <LatestNews/>
     <Advertise/>
     <FeaturedItems/>
     <Ads/>
     <Sponsor/>
-    <Footer/>
 </template>
